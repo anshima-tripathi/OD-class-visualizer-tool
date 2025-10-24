@@ -24,7 +24,7 @@ A comprehensive visual analysis tool for medical image object detection. This to
   - Choose output filenames and frame rate.
 
 ---
-bash```
+```
 
 ## 📁 Project Structure
 

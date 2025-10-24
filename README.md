@@ -24,6 +24,7 @@ A comprehensive visual analysis tool for medical image object detection. This to
   - Choose output filenames and frame rate.
 
 ---
+bash```
 
 ## 📁 Project Structure
 
@@ -44,7 +45,7 @@ OD-class-visualizer-tool/
 │ ├── histogram_data.json
 │ └── histogram_data.npz
 └── videos/ # Exported .mp4 analysis videos
-
+```
 yaml
 Copy
 Edit
